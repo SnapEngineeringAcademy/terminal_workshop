@@ -99,9 +99,11 @@ Example:
 <br>
 ​<hr>
 
-**Activity**
+**Activity**<br>
 ​
-**Build, Navigate a Directory**
+​
+**Build, Navigate a Directory**<br>
+​
 ​
 Using what you know about navigating directories and creating files and folders, construct a 'hello_world' in today's folder.
 ​
@@ -119,9 +121,11 @@ Using what you know about navigating directories and creating files and folders,
 - `mkdir js`
 
 ​
-**css** and **js** are child directories of the hello_world directory.
+**css** and **js** are child directories of the hello_world directory.<br>
 ​
-**index.html** is a file inside the the hello_world directory which is also the root directory.
+​
+**index.html** is a file inside the the hello_world directory which is also the root directory.<br>
+​
 ​
 If you make a mistake, don't worry, just keep adding the right stuff to the right place.
 ​
@@ -176,9 +180,11 @@ Navigates to the js folder no matter where you are currently located in your fil
 <br>
 ​
 
-**Code along**
+**Code along**<br>
 ​
-**Navigate the hello_world**
+​
+**Navigate the hello_world**<br>
+​
 ​
 * Navigate to the hello_world root directory
 * From the hello_world root directory, navigate to the `js`
@@ -188,9 +194,12 @@ Navigates to the js folder no matter where you are currently located in your fil
 <br>
 ​
 
-**Activity**
+**Activity**<br>
 ​
-**Create file structure**
+
+​
+**Create file structure**<br>
+​
 ​
 For each of these, write your command on one line
 ​
