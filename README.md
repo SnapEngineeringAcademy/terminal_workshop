@@ -69,6 +69,8 @@ Example:
 ​
 * Be obsessive, starting today
 * Inside your home folder, create a folder where everything from the class will live, and always put everything from class in there:
+
+<br>
 ​
 Example:
 ​
@@ -123,9 +125,6 @@ Using what you know about navigating directories and creating files and folders,
 ​
 ​
 **index.html** is a file inside the the hello_world directory which is also the root directory.<br>
-​
-​
-If you make a mistake, don't worry, just keep adding the right stuff to the right place.
 ​
 ​
 <br>
