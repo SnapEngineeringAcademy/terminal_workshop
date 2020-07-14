@@ -34,17 +34,7 @@ You can change the color of your Terminal and the font size. It is recommended t
 - `ls` command just shows the directories while `tree` shows that and the files within
 - This makes it easy to see the file structure in your current working directory
 - Very powerful command so be careful where your at when you run the `tree` command
-​
-**Code Along**
-​
 
-* From the home directory, navigate to Library
-* Pick a directory and navigate to the end with `cd directoryname`
-* Then navigate back up with `cd ..`
-* Navigate to Library
-* Pick a directory and navigate to the end
-* Navigate back home with `cd`
-​
 <br>
 <hr>
 ​
@@ -52,6 +42,8 @@ You can change the color of your Terminal and the font size. It is recommended t
 ## MAKING DIRECTORIES AND FILES
 ​
 `mkdir` - makes a directory
+
+<br>
 ​
 Example:
 ​
@@ -87,25 +79,31 @@ Example:
 
 * In that folder, make a new folder for each topic we will be going over in class. Suggestion below:
 ​
-`mkdir web_dev_fundamentals`<br>
-`cd web_dev_fundamentals`
+- `mkdir web_dev_fundamentals`
+- `cd web_dev_fundamentals`
 ​
 * In that folder make a new folder for each lesson or lab or homework and give that folder a nice descriptive name, for example:
 ​
-`mkdir practice_terminal`<br>
-`cd practice_terminal`
+- `mkdir practice_terminal`
+- `cd practice_terminal`
+- `pwd`
+- typing in pwd just to make sure we are in the right directory
+
 ​
 ​
 <br>
 ​<hr>
 
-**Activity**<br>
+## Activity
 ​
 ​
 **Build, Navigate a Directory**<br>
 ​
 ​
 Using what you know about navigating directories and creating files and folders, construct a 'hello_world' in today's folder.
+
+<br>
+
 ​
 **Precision** is important. There are a few layers to this exercise. Be patient.
 ​
@@ -163,6 +161,8 @@ Chain more directories to the current path with the `/` separator
 Move anywhere relative to the home directory: 
 ​
 `cd ~/` - the path starts in home directory
+
+<br>
 ​
 Example:
 ​
